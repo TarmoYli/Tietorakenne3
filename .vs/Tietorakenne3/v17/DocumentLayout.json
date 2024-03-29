@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:Tietorakenne3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Courses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:Courses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Courses.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:Courses.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Courses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:Courses.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:Tietorakenne3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +38,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Courses.cpp",
               "DocumentMoniker": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Courses.cpp",
               "RelativeDocumentMoniker": "Courses.cpp",
               "ToolTip": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Courses.cpp",
               "RelativeToolTip": "Courses.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-28T18:22:57.959Z",
               "EditorCaption": ""
@@ -57,20 +57,20 @@
               "RelativeDocumentMoniker": "Courses.h",
               "ToolTip": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Courses.h",
               "RelativeToolTip": "Courses.h",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBYAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-28T18:18:44.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Tietorakenne3.cpp",
               "DocumentMoniker": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp",
               "RelativeDocumentMoniker": "Tietorakenne3.cpp",
               "ToolTip": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp",
               "RelativeToolTip": "Tietorakenne3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-28T18:09:21.126Z",
               "EditorCaption": ""
