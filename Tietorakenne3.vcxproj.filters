@@ -21,9 +21,15 @@
     <ClCompile Include="Courses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FromCsv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Courses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FromCsv.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

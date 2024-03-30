@@ -7,14 +7,14 @@ Courses::Courses(std::string aOpinto, std::string aTyyppi, std::string aToteutus
 
 void Courses::printCourse()
 {
-	std::cout << this->Alkupvm << "\n";
-	std::cout << this->Loppupvm << "\n";
-	std::cout << this->Nimi << "\n";
-	std::cout << this->Opinto << "\n";
-	std::cout << this->Toteutus << "\n";
-	std::cout << this->Tyyppi << "\n";
-	std::cout << this->Vastuuohjelma << "\n";
-	std::cout << this->Vastuutoimipiste << "\n";
+	std::cout << "Alkupvm: " << this->Alkupvm << "\n";
+	std::cout << "Loppupvm: " << this->Loppupvm << "\n";
+	std::cout << "Nimi: " << this->Nimi << "\n";
+	std::cout << "Opintokoodi: " << this->Opinto << "\n";
+	std::cout << "Toeteutus: " << this->Toteutus << "\n";
+	std::cout << "Tyyppi: " << this->Tyyppi << "\n";
+	std::cout << "Vastuuohjelma: " << this->Vastuuohjelma << "\n";
+	std::cout << "Vastuutoimipiste: " << this->Vastuutoimipiste << "\n";
 }
 
 
