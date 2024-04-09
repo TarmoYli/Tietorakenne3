@@ -8,29 +8,20 @@ void FromCsv::readFile(std::string path)
         std::string line;
         while (std::getline(readFile, line))
         {
-
             std::vector<std::string> parts;
-            size_t pos = 0;
-            while ((pos = line.find(';')) != std::string::npos)
+            int indexInLine = 0;
+            while ((indexInLine = line.find(';')) != std::string::npos)
             {
-                parts.push_back(line.substr(0, pos));
-                line.erase(0, pos + 1);
+                parts.push_back(line.substr(0, indexInLine));
+                line.erase(0, indexInLine + 1);
             }
             parts.push_back(line);
 
+            Courses course(parts[0], parts[1], parts[2], parts[3],
+                parts[4], parts[5], parts[6], parts[7]);
 
-            if (parts.size() == 8)
-            {
+            allCourses.push_back(course);
 
-                Courses course(parts[0], parts[1], parts[2], parts[3],
-                    parts[4], parts[5], parts[6], parts[7]);
-
-                allCourses.push_back(course);
-            }
-            else
-            {
-                std::cout << "Virheellinen rivi: " << line << std::endl;
-            }
         }
         readFile.close();
     }

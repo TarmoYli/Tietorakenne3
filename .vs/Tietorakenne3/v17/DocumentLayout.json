@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:FromCsv.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\FromCsv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:FromCsv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:Tietorakenne3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\FromCsv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2842CB54-B63C-4FCA-894F-998AC6C4A7D4}|Tietorakenne3.vcxproj|solutionrelative:FromCsv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FromCsv.cpp",
               "DocumentMoniker": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\FromCsv.cpp",
               "RelativeDocumentMoniker": "FromCsv.cpp",
               "ToolTip": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\FromCsv.cpp",
               "RelativeToolTip": "FromCsv.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-30T16:35:13.735Z",
               "IsPinned": true,
@@ -102,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Tietorakenne3.cpp",
               "DocumentMoniker": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp",
               "RelativeDocumentMoniker": "Tietorakenne3.cpp",
               "ToolTip": "C:\\Users\\huhma\\Documents\\GitHub\\tietorakenne2\\Tietorakenne3\\Tietorakenne3.cpp",
               "RelativeToolTip": "Tietorakenne3.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-28T18:09:21.126Z",
               "EditorCaption": ""

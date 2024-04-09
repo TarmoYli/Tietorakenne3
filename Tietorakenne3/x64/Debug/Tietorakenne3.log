@@ -1,2 +1,4 @@
-﻿  Tietorakenne3.cpp
+﻿  FromCsv.cpp
+C:\Users\huhma\Documents\GitHub\tietorakenne2\Tietorakenne3\FromCsv.cpp(13,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\huhma\Documents\GitHub\tietorakenne2\Tietorakenne3\x64\Debug\Tietorakenne3.exe not found or not built by the last incremental link; performing full link
   Tietorakenne3.vcxproj -> C:\Users\huhma\Documents\GitHub\tietorakenne2\Tietorakenne3\x64\Debug\Tietorakenne3.exe
